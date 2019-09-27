@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14087.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14075.4"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="GoalCell" id="UTX-yg-9pz" customClass="GoalCell" customModule="elofy" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="373" height="141"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="UTX-yg-9pz" id="jzE-kA-cI0">
+                <rect key="frame" x="0.0" y="0.0" width="339" height="140.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="avatar" translatesAutoresizingMaskIntoConstraints="NO" id="3xi-s4-ddH">
+                        <rect key="frame" x="16" y="11" width="64" height="64"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="3xi-s4-ddH" secondAttribute="height" multiplier="1:1" id="P7k-fG-hQU"/>
+                            <constraint firstAttribute="height" constant="64" id="sog-d2-zQB"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Title" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b2c-Tc-Qdt">
+                        <rect key="frame" x="88" y="11" width="33.5" height="20.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <stackView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="7RZ-NE-412">
+                        <rect key="frame" x="88" y="47" width="62" height="28"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pcF-bi-ieJ">
+                                <rect key="frame" x="0.0" y="0.0" width="62" height="28"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <state key="normal" title="Username"/>
+                            </button>
+                            <button hidden="YES" opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hIe-ct-hjd">
+                                <rect key="frame" x="66" y="0.0" width="0.0" height="28"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="tintColor" red="0.96078431369999995" green="0.72156862749999995" blue="0.078431372550000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title=" Compartilhado" image="shared">
+                                    <color key="titleColor" red="0.96078431372549022" green="0.72156862745098038" blue="0.078431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
+                            <button hidden="YES" opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ihp-Bg-kd4">
+                                <rect key="frame" x="66" y="0.0" width="0.0" height="28"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="tintColor" red="0.039215686270000001" green="0.81176470590000005" blue="0.38823529410000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title=" Individual" image="individual">
+                                    <color key="titleColor" red="0.039215686274509803" green="0.81176470588235294" blue="0.38823529411764707" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
+                            <button hidden="YES" opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BRE-Q2-lsn">
+                                <rect key="frame" x="66" y="0.0" width="0.0" height="28"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="tintColor" red="0.95686274509803915" green="0.078431372549019607" blue="0.53333333333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title=" Grupo" image="team">
+                                    <color key="titleColor" red="0.95686274509803915" green="0.078431372549019607" blue="0.53333333333333333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                    </stackView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Timestamp" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ein-ub-5jr">
+                        <rect key="frame" x="16" y="83" width="76.5" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="CLX-Yv-O0j">
+                        <rect key="frame" x="16" y="109" width="315" height="21"/>
+                        <subviews>
+                            <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Wxs-9F-xbj">
+                                <rect key="frame" x="0.0" y="6.5" width="257" height="8"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5kd-my-3OY">
+                                        <rect key="frame" x="0.0" y="0.0" width="257" height="8"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <color key="backgroundColor" red="0.50196078431372548" green="0.7803921568627451" blue="0.51372549019607838" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="8" id="UNM-pz-fNq"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="4"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0%" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qa3-zb-6fp">
+                                <rect key="frame" x="265" y="2" width="50" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="wTy-QW-os8"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="CLX-Yv-O0j" firstAttribute="top" secondItem="Ein-ub-5jr" secondAttribute="bottom" constant="8" symbolic="YES" id="5dm-6l-Ci4"/>
+                    <constraint firstItem="b2c-Tc-Qdt" firstAttribute="leading" secondItem="3xi-s4-ddH" secondAttribute="trailing" constant="8" symbolic="YES" id="7rd-xe-HEG"/>
+                    <constraint firstItem="3xi-s4-ddH" firstAttribute="top" secondItem="jzE-kA-cI0" secondAttribute="topMargin" id="8wn-8z-x5Y"/>
+                    <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="b2c-Tc-Qdt" secondAttribute="trailing" id="ANj-wd-PXy"/>
+                    <constraint firstItem="Ein-ub-5jr" firstAttribute="leading" secondItem="jzE-kA-cI0" secondAttribute="leadingMargin" id="Bxm-oR-1gp"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="CLX-Yv-O0j" secondAttribute="trailing" id="M1a-ZQ-f5q"/>
+                    <constraint firstItem="b2c-Tc-Qdt" firstAttribute="top" secondItem="3xi-s4-ddH" secondAttribute="top" id="Nch-ah-sxu"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="CLX-Yv-O0j" secondAttribute="bottom" id="TEY-Ww-S4r"/>
+                    <constraint firstItem="7RZ-NE-412" firstAttribute="bottom" secondItem="3xi-s4-ddH" secondAttribute="bottom" id="bFm-Nj-ZBK"/>
+                    <constraint firstItem="7RZ-NE-412" firstAttribute="leading" secondItem="b2c-Tc-Qdt" secondAttribute="leading" id="hLP-nn-Nc8"/>
+                    <constraint firstItem="CLX-Yv-O0j" firstAttribute="leading" secondItem="jzE-kA-cI0" secondAttribute="leadingMargin" id="l10-S7-1RE"/>
+                    <constraint firstItem="Ein-ub-5jr" firstAttribute="top" secondItem="3xi-s4-ddH" secondAttribute="bottom" constant="8" symbolic="YES" id="l4Q-8f-nen"/>
+                    <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="7RZ-NE-412" secondAttribute="trailing" id="nF6-zg-VMr"/>
+                    <constraint firstItem="3xi-s4-ddH" firstAttribute="leading" secondItem="jzE-kA-cI0" secondAttribute="leadingMargin" id="qcf-wH-wgg"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="avatar" destination="3xi-s4-ddH" id="ZpP-jb-HhI"/>
+                <outlet property="percent" destination="5kd-my-3OY" id="uch-TC-d7y"/>
+                <outlet property="percentFull" destination="Wxs-9F-xbj" id="VhD-E8-lNI"/>
+                <outlet property="percentLabel" destination="qa3-zb-6fp" id="Xy0-5N-7LY"/>
+                <outlet property="timestamp" destination="Ein-ub-5jr" id="5Vb-Ob-1N0"/>
+                <outlet property="title" destination="b2c-Tc-Qdt" id="uRl-Zy-BOQ"/>
+                <outlet property="typePanel" destination="7RZ-NE-412" id="m1s-lW-MYg"/>
+                <outlet property="username" destination="pcF-bi-ieJ" id="fuh-B5-PgE"/>
+            </connections>
+            <point key="canvasLocation" x="-60.5" y="31.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="avatar" width="380" height="380"/>
+        <image name="individual" width="16" height="16"/>
+        <image name="shared" width="16" height="16"/>
+        <image name="team" width="16" height="16"/>
+    </resources>
+</document>

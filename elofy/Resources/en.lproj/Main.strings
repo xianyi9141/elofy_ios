@@ -1,0 +1,213 @@
+
+/* Class = "UILabel"; text = "username"; ObjectID = "09t-5u-jS4"; */
+"09t-5u-jS4.text" = "username";
+
+/* Class = "UIButton"; normalTitle = "CREATE ACCOUNT"; ObjectID = "196-cF-KDC"; */
+"196-cF-KDC.normalTitle" = "CREATE ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "LOG IN TO YOUR ACCOUNT"; ObjectID = "35w-VJ-Vu0"; */
+"35w-VJ-Vu0.normalTitle" = "LOG IN TO YOUR ACCOUNT";
+
+/* Class = "UINavigationItem"; title = "LIKES"; ObjectID = "3cL-bs-8eX"; */
+"3cL-bs-8eX.title" = "LIKES";
+
+/* Class = "UINavigationItem"; title = "ACTIVITIES"; ObjectID = "4iq-Wp-S6G"; */
+"4iq-Wp-S6G.title" = "ACTIVITIES";
+
+/* Class = "UILabel"; text = "Stay logged in"; ObjectID = "5ap-E0-ndP"; */
+"5ap-E0-ndP.text" = "Stay logged in";
+
+/* Class = "UILabel"; text = "CURRENT PROGRESS"; ObjectID = "6oX-kJ-lif"; */
+"6oX-kJ-lif.text" = "CURRENT PROGRESS";
+
+/* Class = "UILabel"; text = "TO"; ObjectID = "6py-WI-KrH"; */
+"6py-WI-KrH.text" = "TO";
+
+/* Class = "UIButton"; normalTitle = " Pending"; ObjectID = "7GC-wD-1HW"; */
+"7GC-wD-1HW.normalTitle" = " Pending";
+
+/* Class = "UIButton"; normalTitle = " Late"; ObjectID = "9ec-y6-tbK"; */
+"9ec-y6-tbK.normalTitle" = " Late";
+
+/* Class = "UIButton"; normalTitle = "Sign Up →"; ObjectID = "A4M-aR-0sg"; */
+"A4M-aR-0sg.normalTitle" = "Sign Up →";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "ANP-62-MH7"; */
+"ANP-62-MH7.title" = " ";
+
+/* Class = "UILabel"; text = "Hello, {username}!"; ObjectID = "B4L-7x-eIN"; */
+"B4L-7x-eIN.text" = "Hello, {username}!";
+
+/* Class = "UIButton"; normalTitle = " Progress"; ObjectID = "BZg-Rn-LFX"; */
+"BZg-Rn-LFX.normalTitle" = " Progress";
+
+/* Class = "UILabel"; text = "RESPONSIBLE"; ObjectID = "CcT-Lm-RFL"; */
+"CcT-Lm-RFL.text" = "RESPONSIBLE";
+
+/* Class = "UILabel"; text = "Receive and send Elos."; ObjectID = "Cqb-PE-XRR"; */
+"Cqb-PE-XRR.text" = "Receive and send Elos.";
+
+/* Class = "UILabel"; text = "Create and check your OKRs."; ObjectID = "Ehk-7b-nwh"; */
+"Ehk-7b-nwh.text" = "Create and check your OKRs.";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "FWR-Yc-oMc"; */
+"FWR-Yc-oMc.text" = "title";
+
+/* Class = "UILabel"; text = "RESPONSIBLE"; ObjectID = "Ggv-8H-z8c"; */
+"Ggv-8H-z8c.text" = "RESPONSIBLE";
+
+/* Class = "UILabel"; text = "GOAL"; ObjectID = "Gqy-bn-71E"; */
+"Gqy-bn-71E.text" = "GOAL";
+
+/* Class = "UILabel"; text = "I agree the terms of conditions"; ObjectID = "GxJ-Wm-Akr"; */
+"GxJ-Wm-Akr.text" = "I agree the terms of conditions";
+
+/* Class = "UILabel"; text = "LAST UPDATED"; ObjectID = "HjW-2V-lvp"; */
+"HjW-2V-lvp.text" = "LAST UPDATED";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW VALUE"; ObjectID = "I5V-8a-oK8"; */
+"I5V-8a-oK8.normalTitle" = "ADD NEW VALUE";
+
+/* Class = "UILabel"; text = "You still don't have account?"; ObjectID = "IgO-hV-uXO"; */
+"IgO-hV-uXO.text" = "You still don't have account?";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "IvK-49-Ao6"; */
+"IvK-49-Ao6.title" = " ";
+
+/* Class = "UILabel"; text = "Good to see you again!"; ObjectID = "Ivo-c2-YsY"; */
+"Ivo-c2-YsY.text" = "Good to see you again!";
+
+/* Class = "UINavigationItem"; title = "SURVEYS"; ObjectID = "JCq-ua-CkA"; */
+"JCq-ua-CkA.title" = "SURVEYS";
+
+/* Class = "UILabel"; text = "Surveys"; ObjectID = "LbS-rY-ott"; */
+"LbS-rY-ott.text" = "Surveys";
+
+/* Class = "UITextField"; placeholder = "Date"; ObjectID = "MXH-6b-ALe"; */
+"MXH-6b-ALe.placeholder" = "Date";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "NHj-YV-IKX"; */
+"NHj-YV-IKX.text" = "0.0";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Nbs-zq-PIM"; */
+"Nbs-zq-PIM.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "OvB-X5-WOH"; */
+"OvB-X5-WOH.text" = "0%";
+
+/* Class = "UILabel"; text = "  / "; ObjectID = "PDd-z4-Wnz"; */
+"PDd-z4-Wnz.text" = "  / ";
+
+/* Class = "UIButton"; normalTitle = "EXIT"; ObjectID = "RAx-qa-OXd"; */
+"RAx-qa-OXd.normalTitle" = "EXIT";
+
+/* Class = "UIButton"; normalTitle = "Forgotten password?"; ObjectID = "TdJ-iU-gT1"; */
+"TdJ-iU-gT1.normalTitle" = "Forgotten password?";
+
+/* Class = "UINavigationItem"; title = "KEY REQUEST MEASURE"; ObjectID = "ULJ-tn-OVa"; */
+"ULJ-tn-OVa.title" = "KEY REQUEST MEASURE";
+
+/* Class = "UILabel"; text = "ACTUAL"; ObjectID = "UnQ-RH-0oQ"; */
+"UnQ-RH-0oQ.text" = "ACTUAL";
+
+/* Class = "UILabel"; text = "Stay productive, with your goals."; ObjectID = "V3e-KE-61j"; */
+"V3e-KE-61j.text" = "Stay productive, with your goals.";
+
+/* Class = "UIButton"; normalTitle = " Done"; ObjectID = "WJb-kA-jai"; */
+"WJb-kA-jai.normalTitle" = " Done";
+
+/* Class = "UILabel"; text = "GOAL NAME"; ObjectID = "XGH-vV-gZB"; */
+"XGH-vV-gZB.text" = "GOAL NAME";
+
+/* Class = "UILabel"; text = "My Goals"; ObjectID = "Xfh-2k-F8y"; */
+"Xfh-2k-F8y.text" = "My Goals";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "YPA-8N-Rqi"; */
+"YPA-8N-Rqi.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "ZUD-Z6-VR6"; */
+"ZUD-Z6-VR6.title" = " ";
+
+/* Class = "UILabel"; text = "Interact with other employes."; ObjectID = "aRH-eL-iuJ"; */
+"aRH-eL-iuJ.text" = "Interact with other employes.";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "alv-6o-gpn"; */
+"alv-6o-gpn.text" = "Description";
+
+/* Class = "UILabel"; text = "Enter your e-mail and we will send you the instructions to recover your account."; ObjectID = "an9-8C-yj4"; */
+"an9-8C-yj4.text" = "Enter your e-mail and we will send you the instructions to recover your account.";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "bNP-sx-iAa"; */
+"bNP-sx-iAa.text" = "0.0";
+
+/* Class = "UINavigationItem"; title = "GOALS / OKRs"; ObjectID = "cnm-By-Cm8"; */
+"cnm-By-Cm8.title" = "GOALS / OKRs";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "fGr-G2-W5G"; */
+"fGr-G2-W5G.title" = " ";
+
+/* Class = "UINavigationItem"; title = "RESET PASSWORD"; ObjectID = "fdN-eB-cjN"; */
+"fdN-eB-cjN.title" = "RESET PASSWORD";
+
+/* Class = "UINavigationItem"; title = "UPDATES"; ObjectID = "gpv-yY-GyF"; */
+"gpv-yY-GyF.title" = "UPDATES";
+
+/* Class = "UILabel"; text = "Elos"; ObjectID = "jaX-K4-cIp"; */
+"jaX-K4-cIp.text" = "Elos";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "jsm-oR-iQ8"; */
+"jsm-oR-iQ8.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "l21-wW-chI"; */
+"l21-wW-chI.title" = " ";
+
+/* Class = "UINavigationItem"; title = "ACTIVITIES"; ObjectID = "mpq-0x-MhY"; */
+"mpq-0x-MhY.title" = "ACTIVITIES";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "mvh-Hr-ET6"; */
+"mvh-Hr-ET6.text" = "0%";
+
+/* Class = "UILabel"; text = "GOAL NAME"; ObjectID = "nH3-Kd-AL5"; */
+"nH3-Kd-AL5.text" = "GOAL NAME";
+
+/* Class = "UILabel"; text = "FROM"; ObjectID = "ntp-iS-vOg"; */
+"ntp-iS-vOg.text" = "FROM";
+
+/* Class = "UINavigationItem"; title = "SIGN UP"; ObjectID = "oLr-Ao-u6r"; */
+"oLr-Ao-u6r.title" = "SIGN UP";
+
+/* Class = "UILabel"; text = "0Qty"; ObjectID = "olx-qM-3Xp"; */
+"olx-qM-3Xp.text" = "0Qty";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "pOp-aq-MTJ"; */
+"pOp-aq-MTJ.normalTitle" = "SUBMIT";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "pzW-nd-Zmg"; */
+"pzW-nd-Zmg.title" = " ";
+
+/* Class = "UILabel"; text = "OKRs"; ObjectID = "r1l-pL-2A7"; */
+"r1l-pL-2A7.text" = "OKRs";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "sYx-RG-Wb3"; */
+"sYx-RG-Wb3.placeholder" = "Value";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "tIo-tv-Wg0"; */
+"tIo-tv-Wg0.text" = "title";
+
+/* Class = "UINavigationItem"; title = "GOAL INFO"; ObjectID = "td7-YX-oeI"; */
+"td7-YX-oeI.title" = "GOAL INFO";
+
+/* Class = "UILabel"; text = "desc"; ObjectID = "twr-60-1mq"; */
+"twr-60-1mq.text" = "desc";
+
+/* Class = "UILabel"; text = "02/24/2018"; ObjectID = "uvO-Ld-JPR"; */
+"uvO-Ld-JPR.text" = "02/24/2018";
+
+/* Class = "UISearchBar"; placeholder = "Type for search"; ObjectID = "vOs-a0-ZMR"; */
+"vOs-a0-ZMR.placeholder" = "Type for search";
+
+/* Class = "UILabel"; text = "timestamp"; ObjectID = "wYY-4i-F0s"; */
+"wYY-4i-F0s.text" = "timestamp";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "z9v-aJ-Jm8"; */
+"z9v-aJ-Jm8.text" = "0.0";
